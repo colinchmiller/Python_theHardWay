@@ -10,6 +10,7 @@ print "Now I will count the eggs:"
 
 #total number of eggs
 print 3+2+1-5+4%2-1/4+6
+print "floating point of the above: ", 3+2+1-5+4%2.0-1/4.0+6
 
 #boolean question with math
 print "Is it true that 3+2<5-7?"
